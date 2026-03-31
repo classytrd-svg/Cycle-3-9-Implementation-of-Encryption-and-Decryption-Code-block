@@ -116,4 +116,3 @@ printf("%c",m[i]);
 
 # RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully.
-](https://github.com/classytrd-svg/Cycle-3-8-Implementation-of-error-detection-using-CRC-CCITT-16-bit-technique-Code-blocks/blob/main/README.md)
